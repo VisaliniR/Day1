@@ -1,0 +1,23 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    text-align: center;
+}
+p,h6
+{
+    font-size: 26;
+    color: blueviolet;
+}
+img{
+    border: 5px dashed red;
+}
+
+.link{
+    text-decoration: none;
+    font-size: larger;
+}
+
+#headig3,#heading1,#heading5{
+    background-color: aquamarine;
+}
